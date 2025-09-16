@@ -61,6 +61,3 @@ CypressAutomation/
 - **cypress/fixtures/**: Test data files
 - **cypress/plugins/**: Plugin configurations
 - **cypress/support/**: Custom commands and support files
-
-
-Would you like me to create and commit this README.md file to your repository?
